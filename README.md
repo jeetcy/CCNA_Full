@@ -1,4 +1,4 @@
-# 🌐 My CCNA Journey (200-301)
+# 🌐 CCNA Full: My CCNA Journey (200-301)
 
 My personal study notes, labs, configs and troubleshooting practice for the **Cisco CCNA 200-301** exam.
 
